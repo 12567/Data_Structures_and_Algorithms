@@ -3,12 +3,13 @@ package Arrays;
 public class OneDArray
 {
     public static void main(String[] args) {
-        int[] num = new int[5];
+        int[] num = new int[6];
         num[0]=10;
         num[1]=20;
         num[2]=30;
         num[3]=40;
         num[4]=50;
+        num[5]=60;
 
         for(int x : num)
         {
